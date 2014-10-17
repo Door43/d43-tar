@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tar:home|Door43 (tar)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tar|d43-tar repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tar/archive/master.zip|d43-tar.zip]]
+
+**Recent Changes**
+{{changes>ns = tar}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tar|Ethnologue data]]
+
